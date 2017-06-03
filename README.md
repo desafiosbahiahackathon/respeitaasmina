@@ -1,7 +1,7 @@
-# respeitaasmina
+# Respeita as mina!
 Repositório do 1º Hackathon com a temática Respeita as Mina!
 
-Aqui seguem algumas referências:
+**Aqui seguem algumas referências:**
 
 http://labhackercd.net/hackathon.html			
 
